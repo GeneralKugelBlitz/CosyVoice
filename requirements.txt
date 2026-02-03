@@ -28,6 +28,7 @@ pyarrow==18.1.0
 pydantic==2.7.0
 pyworld==0.3.4
 rich==13.7.1
+ruamel.yaml<0.19.0
 soundfile==0.12.1
 tensorboard==2.14.0
 tensorrt-cu12==10.13.3.9; sys_platform == 'linux'
